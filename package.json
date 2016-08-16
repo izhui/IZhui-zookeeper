@@ -1,0 +1,30 @@
+{
+  "name": "izhui-zookeeper",
+  "version": "0.0.4",
+  "description": "izhui-zookeeper demo",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izhui/IZhui-zookeeper.git"
+  },
+  "keywords": [
+    "zookeeper",
+    "izhui"
+  ],
+  "author": "cava.zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izhui/IZhui-zookeeper/issues"
+  },
+  "homepage": "https://github.com/izhui/IZhui-zookeeper#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "zookeeper": "^3.4.8-2"
+  }
+}
